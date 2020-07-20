@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the 2021 Atlantis Summit!
+
+The rest of the stuff below is boilerplate template.  
+
+---
 
 You can use the [editor on GitHub](https://github.com/r4atlantis/atlantis-summit-2021/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
