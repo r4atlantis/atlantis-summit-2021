@@ -1,5 +1,7 @@
 ## Welcome to the 2021 Atlantis Summit!
 
+![](https://avatars2.githubusercontent.com/u/16171445?s=400&u=f27570130f078904079914c51a8e4ac3032402b0&v=4)
+
 The rest of the stuff below is boilerplate template.  
 
 ---
